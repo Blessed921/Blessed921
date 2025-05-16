@@ -15,6 +15,7 @@ Welcome to my GitHub! I'm a passionate software developer with a love for buildi
 - Languages: JavaScript, Dart, Python, C#, Java.
 - Frontend: React, Flutter, HTML/CSS, WordPress, TailwindCSS, Vite.
 - Backend: Node.js, Express, MongoDB, Firebase.
+- Database: MongoDB, MSSQL, R, Tableu.
 - Dev Tools: Git, VS Code, Postman, Android Studio.
 - Other: Paystack API, Twilio Video, Blockchain (Solidity + Hardhat)
 
